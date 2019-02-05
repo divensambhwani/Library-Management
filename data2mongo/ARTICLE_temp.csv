@@ -1,0 +1,50 @@
+article_id,author_name,volume_no,magazine_name,title,page_no
+0,Rudolf Berghammer,45,Acta Inf.,Applying relation algebra and Rel View to solve problems on orders and lattices.,211-236
+1,Ekkart Kindler,32,Acta Inf.,"Invariants, Composition, and Substitution.",299-312
+2,Siegfried Bublitz,23,Acta Inf.,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,689-696
+3,Gheorghe Paun,30,Acta Inf.,On the Synchronization in Parallel Communicating Grammar Systems.,351-367
+4,Naoki Kobayashi 0001,42,Acta Inf.,Type-based information flow analysis for the pi-calculus.,291-347
+5,Kung-Kiu Lau,27,Acta Inf.,A Note on Synthesis and Classification of Sorting Algorithms.,73-80
+6,Sanjeev Saxena,33,Acta Inf.,Parallel Integer Sorting and Simulation Amongst CRCW Models.,607-619
+7,Changwook Kim,37,Acta Inf.,Efficient recognition algorithms for boundary and linear eNCE graph languages.,619-632
+8,Astrid Kiehn,31,Acta Inf.,Comparing Locality and Causality Based Equivalences.,697-718
+9,Beverly A. Sanders,35,Acta Inf.,Data Refinement of Mixed Specifications.,91-129
+10,K. V. S. Ramarao,26,Acta Inf.,Complexity of Distributed Commit Protocols.,577-595
+11,Hsien-Kuei Hwang,35,Acta Inf.,Asymptotic Expansions of the Mergesort Recurrences.,911-919
+12,Wim H. Hesselink,50,Acta Inf.,A distributed resource allocation algorithm for many processes.,297-329
+13,Róbert Szelepcsényi,26,Acta Inf.,The Method of Forced Enumeration for Nondeterministic Automata.,279-284
+14,Xiaomi Hu,51,Computational Statistics & Data Analysis,"Asymptotical distributions, parameters and coverage probabilities of tolerance limits.",4753-4760
+15,Lawrence T. Kou,27,Acta Inf.,On Efficient Implementation of an Approximation Algorithm for the Steiner Tree Problem.,369-380
+16,Marco J. Lombardi,51,Computational Statistics & Data Analysis,Bayesian inference for alpha.,2688-2700
+17,J. D. Godolphin,53,Computational Statistics & Data Analysis,New formulations for recursive residuals as a diagnostic tool in the fixed-effects linear model with design matrices of arbitrary rank.,2119-2128
+18,Ingelin Steinsland,51,Computational Statistics & Data Analysis,Parallel exact sampling and evaluation of Gaussian Markov random fields.,2969-2981
+19,Olcay Arslan,56,Computational Statistics & Data Analysis,Weighted LAD-LASSO method for robust parameter estimation and variable selection in regression.,1952-1965
+20,Juha Honkala,48,Acta Inf.,A characterization of rational D0L power series.,19-24
+21,Ryszard Janicki,45,Acta Inf.,Relational structures model of concurrency.,279-320
+22,Saralees Nadarajah,51,Computational Statistics & Data Analysis,"Reply to the Comment by O. Arslan on ""Information matrices for Laplace and Pareto mixtures"".",2794-2795
+23,Peter Winker,52,Computational Statistics & Data Analysis,"E.J. Kontoghiorghes, Editor, Handbook of Parallel Computing and Statistics, Chapman & Hall/CRC, Boca Raton (2006).",3424-3425
+24,Howard L. Weinert,53,Computational Statistics & Data Analysis,A fast compact algorithm for cubic spline smoothing.,932-940
+25,Peter Zörnig,54,Computational Statistics & Data Analysis,Statistical simulation and the distribution of distances between identical elements in a random sequence.,2317-2327
+26,Ji-Hyun Kim,53,Computational Statistics & Data Analysis,"Estimating classification error rate: Repeated cross-validation, repeated hold-out and bootstrap.",3735-3745
+27,Salvador Flores,54,Computational Statistics & Data Analysis,On the efficient computation of robust regression estimators.,3044-3056
+28,Lior Rokach,53,Computational Statistics & Data Analysis,Collective-agreement-based pruning of ensembles.,1015-1026
+29,Karl Meinke,31,Acta Inf.,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,329-340
+30,Patrick Marsh,51,Computational Statistics & Data Analysis,Goodness of fit tests via exponential series density estimation.,2428-2441
+31,Harry Joe,52,Computational Statistics & Data Analysis,Accuracy of Laplace approximation for discrete response mixed models.,5066-5074
+32,D. S. G. Pollock,42,Computational Statistics & Data Analysis,Improved frequency selective filters.,279-297
+33,Yury P. Shimansky,50,Computational Statistics & Data Analysis,Continuous significant linear dimensionality: Geometric interpretation and statistical characteristics.,2863-2877
+34,Peter Congdon,50,Computational Statistics & Data Analysis,A model for non-parametric spatially varying regression effects.,422-445
+35,Marco J. Lombardi,51,Computational Statistics & Data Analysis,Bayesian inference for alpha.,2688-2700
+36,Andrew G. Glen,54,Computational Statistics & Data Analysis,Accurate estimation with one order statistic.,1434-1441
+37,J. D. Godolphin,53,Computational Statistics & Data Analysis,New formulations for recursive residuals as a diagnostic tool in the fixed-effects linear model with design matrices of arbitrary rank.,2119-2128
+38,Olcay Arslan,56,Computational Statistics & Data Analysis,Weighted LAD-LASSO method for robust parameter estimation and variable selection in regression.,1952-1965
+39,Ingelin Steinsland,51,Computational Statistics & Data Analysis,Parallel exact sampling and evaluation of Gaussian Markov random fields.,2969-2981
+40,Matthew S. Johnson,51,Computational Statistics & Data Analysis,Modeling dichotomous item responses with free-knot splines.,4178-4192
+41,Alan D. Hutson,54,Computational Statistics & Data Analysis,A multi-rater nonparametric test of agreement and corresponding agreement plot.,109-119
+42,Pedro V. Silva,39,Acta Inf.,A note on pure and p-pure languages.,579-595
+43,Matthew S. Johnson,51,Computational Statistics & Data Analysis,Modeling dichotomous item responses with free-knot splines.,4178-4192
+44,Alexander Meduna,39,Acta Inf.,Coincidental extension of scattered context languages.,307-314
+45,Henning Fernau,37,Acta Inf.,Parallel communicating grammar systems with terminal transmission.,511-540
+46,Levent V. Orman,34,Acta Inf.,Relational Database Constraints as Counterexamples.,167-189
+47,Yue Fang,52,Computational Statistics & Data Analysis,Semi-parametric specification tests for mixing distributions.,2829-2839
+48,Dexter O. Cahoy,54,Computational Statistics & Data Analysis,A bootstrap test for equality of variances.,2306-2316
